@@ -25,7 +25,8 @@ To prepare the data for analysis:
 
 ---
 
-## 📈 Yearly Sales Trend
+## 📈 Visualization
+
 ![Sales Trend](yearly_sales_trend.png)
 
 ## 📊 Key Insights
@@ -55,4 +56,4 @@ This analysis demonstrates how external events can significantly impact retail p
 ## 📁 Files
 sales_analysis.ipynb → Full analysis notebook
 yearly_sales_trend.png → Final visualization
-cleaned_sales_data.csv → Processed dataset
+2019_2025_Master.csv → Processed dataset
