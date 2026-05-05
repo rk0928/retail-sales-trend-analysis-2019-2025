@@ -54,6 +54,6 @@ This analysis demonstrates how external events can significantly impact retail p
 ---
 
 ## 📁 Files
-sales_analysis.ipynb → Full analysis notebook
-yearly_sales_trend.png → Final visualization
-2019_2025_Master.csv → Processed dataset
+- sales_analysis.ipynb → Full analysis notebook
+- yearly_sales_trend.png → Final visualization
+- 2019_2025_Master.csv → Processed dataset
